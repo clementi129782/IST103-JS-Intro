@@ -1,6 +1,1 @@
-<script>
-    function HelloWorld() {
-        alert("Hello World");
-    }
-    alert
-</script>
+alert("Hello World");
